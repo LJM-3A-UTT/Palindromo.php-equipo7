@@ -1,0 +1,1 @@
+# Palindromo.php-equipo7
